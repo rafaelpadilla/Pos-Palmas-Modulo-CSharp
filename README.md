@@ -1,4 +1,4 @@
-# Pos-Palmas
+# Curso de Pós-Graduação em **Desenvolvimento de Software para Dispositivos Móveis** (Católica-TO)
 
 ## Informações Gerais:
 
