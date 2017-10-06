@@ -94,20 +94,19 @@ Estão disponibilizados os slides das aulas por parte:
 A avaliação  será feita através da execução de 6 pequenos projetos (desafios). O projeto com menor nota será desconsiderado. Para cada projeto será dada uma nota de 0 a 10. A nota final será a média de todos os projetos.
 
 **Regras de avaliação:**
-
 * É necessário disponibilizar o código (Projeto Visual Studio);
 * Não enviar binários (.exe .dll)
 * Nos desafios com Windows Forms, utilize os componentes que facilitem a usabilidade – Use o * bom senso;
 * O código deverá estar bem documentado / comentado;
 * Siga as boas práticas de desenvolvimento vistas em aula;
 
-Os pontos avaliados em cada projeto serão:
+**Os pontos avaliados em cada projeto serão:**
 * Projeto funcional com tratamento de exceções;
 * Projeto consistente com as instruções;
 * Código comentado;
 * Nomenclatura de variáveis, métodos e classes seguindo o padrão C#;
 
-Desafios:
+**Desafios:**
 * Desafio 1: SUED
 * Desafio 2: Limites de Variáveis
 * Desafio 3: Inverter Caracteres
@@ -119,4 +118,5 @@ Clique [aqui](https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Docs/Desaf
 
 ## Contato
 
-contato@rafaelpadilla.net
+Quaisquer dúvidas deverão ser enviadas com antecedência via e-mail com assunto "Pós-Graduação Católica-TO" para o e-mail: contato@rafaelpadilla.net 
+
