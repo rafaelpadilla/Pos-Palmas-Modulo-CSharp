@@ -16,7 +16,7 @@
 
 ## Objetivos:
 
-**Geral:**
+**Gerais:**
 * Qualificar profissionais da área de Ciência da Computação no projeto e desenvolvimento de aplicações utilizando C#.
 
 **Específicos:**
@@ -61,9 +61,11 @@
 
 ## Conteúdo: 
 
-[Slides Aula - Parte 1 (Sábado)]:(https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Slides_Aula_Parte_1_1.pdf)
+Estão disponibilizados os slides das aulas por parte:
 
-[Slides Aula - Parte 1 (Domingo)]:(https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Slides_Aula_Parte_1_2.pdf)
+[Slides Aula - Parte 1 (Sábado)](https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Slides_Aula_Parte_1_1.pdf):
+
+[Slides Aula - Parte 1 (Domingo)](https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Slides_Aula_Parte_1_2.pdf):
 
 [Slides Aula - Parte 2 (Sábado)]:(https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Slides_Aula_Parte_2_1.pdf)
 [Slides Aula - Parte 2 (Domingo)]:(https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Slides_Aula_Parte_2_2.pdf)
@@ -90,11 +92,6 @@
 ## Avaliações
 
 A avaliação  será feita através da execução de 6 pequenos projetos (desafios). O projeto com menor nota será desconsiderado. Para cada projeto será dada uma nota de 0 a 10. A nota final será a média de todos os projetos.
-Os pontos avaliados em cada projeto serão:
-* Projeto funcional com tratamento de exceções;
-* Projeto consistente com as instruções;
-* Código comentado;
-* Nomenclatura de variáveis, métodos e classes seguindo o padrão C#;
 
 **Regras de avaliação:**
 
@@ -119,3 +116,7 @@ Desafios:
 * Desafio 6: XML de Carros
 
 Clique [aqui](https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Docs/Desafios.pdf) para acessar os enunciados dos desafios.
+
+## Contato
+
+contato@rafaelpadilla.net
