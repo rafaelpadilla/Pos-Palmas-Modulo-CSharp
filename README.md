@@ -4,18 +4,60 @@
 
 **Carga Horária:** 30 horas
 
-**Datas:** 
+**Datas e horários:** 
 
 1a Parte:
-
 * 07 de outubro de 2017 (Sábado)  : 08:00 às 12:00h - 14:00 às 19:00h
 * 08 de outubro de 2017 (Domingo) : 08:00 às 12:00h - 14:00 às 16:00h
 
-
 2a Parte:
-
 * 21 de outubro de 2017 (Sábado)  : 08:00 às 12:00h - 14:00 às 19:00 h
 * 22 de outubro de 2017 (Domingo) : 08:00 às 12:00h - 14:00 às 16:00 h
+
+## Objetivos:
+
+**Geral:**
+* Qualificar profissionais da área de Ciência da Computação no projeto e desenvolvimento de aplicações utilizando C#.
+
+**Específicos:**
+* Fornecer aos alunos embasamento teórico e prático a respeito dos paradigmas, metodologias e técnicas mais recentes na área de programação com C#;
+* Proporcionar o uso de ferramental prático suficiente para permitir aplicações do conteúdo teórico oferecido, a fim de desenvolver soluções reais com C#;
+
+## Ementa:
+
+* Introdução ao Visual Studio 2013; 
+* Conhecendo a Plataforma .net; 
+* Benefícios do .NET Framework; 
+* Componentes do .net Framework; 
+* C# e as Linguagens suportadas pelo Framework; 
+* Uma visão geral sobre a linguagem C#; 
+* Estrutura de código; 
+* Hello World; 
+* Operações básicas de entrada e saída; 
+* Compilando, Executando e Debugando; 
+* Tipos de Variáveis; 
+* Nomeando variáveis; 
+* Conversão de Variáveis; 
+* Comandos de Seleção; 
+* Comandos de Iteração for e foreach; 
+* Exceções (try/catch/finally); 
+* Métodos e Parâmetros; 
+* Coleções; 
+* C# e a Orientação a Objetos; 
+* Sobrecarga de Métodos; 
+* Get/Set;
+* Utilizando Variáveis (Tipo Referência); 
+* Referência de Memória, o que é?; 
+* Utilizando os tipos comuns; 
+* Hierarquia dos objetos; 
+* Herança em C#; 
+* Utilizando Classes Seladas; 
+* Interfaces; 
+* Classes Abstratas; 
+* Criando e Destruindo Objetos (instâncias); 
+* Utilizando os Construtores; 
+* LINQ e Lambda; 
+* Threads;
 
 ## Conteúdo: 
 
@@ -45,9 +87,16 @@
 * [Code 10](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%20010)  : Encapsulamento
 * [Code 11](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%20011)  : Utilizando Variáveis (Tipo Referência)
 
-## Desafios
+## Avaliações
 
-Regulamento:
+A avaliação  será feita através da execução de 6 pequenos projetos (desafios). O projeto com menor nota será desconsiderado. Para cada projeto será dada uma nota de 0 a 10. A nota final será a média de todos os projetos.
+Os pontos avaliados em cada projeto serão:
+* Projeto funcional com tratamento de exceções;
+* Projeto consistente com as instruções;
+* Código comentado;
+* Nomenclatura de variáveis, métodos e classes seguindo o padrão C#;
+
+**Regras de avaliação:**
 
 * É necessário disponibilizar o código (Projeto Visual Studio);
 * Não enviar binários (.exe .dll)
@@ -69,4 +118,4 @@ Desafios:
 * Desafio 5: API Piadas
 * Desafio 6: XML de Carros
 
-[Desafios](https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Docs/Desafios.pdf)
+Clique [aqui](https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Docs/Desafios.pdf) para acessar os enunciados dos desafios.
