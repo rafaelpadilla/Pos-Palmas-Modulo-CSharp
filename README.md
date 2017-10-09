@@ -20,56 +20,56 @@
 * Qualificar profissionais da área de Ciência da Computação no projeto e desenvolvimento de aplicações utilizando C#.
 
 **Específicos:**
-* Fornecer aos alunos embasamento teórico e prático a respeito dos paradigmas, metodologias e técnicas mais recentes na área de programação com C#;
-* Proporcionar o uso de ferramental prático suficiente para permitir aplicações do conteúdo teórico oferecido, a fim de desenvolver soluções reais com C#;
+* Fornecer aos alunos embasamento teórico e prático a respeito dos paradigmas, metodologias e técnicas mais recentes na área de programação com C#.
+* Proporcionar o uso de ferramental prático suficiente para permitir aplicações do conteúdo teórico oferecido, a fim de desenvolver soluções reais com C#.
 
 ## Ementa:
 
-* Introdução ao Visual Studio 2013; 
-* Conhecendo a Plataforma .net; 
-* Benefícios do .NET Framework; 
-* Componentes do .net Framework; 
-* C# e as Linguagens suportadas pelo Framework; 
-* Uma visão geral sobre a linguagem C#; 
-* Estrutura de código; 
-* Hello World; 
-* Operações básicas de entrada e saída; 
-* Compilando, Executando e Debugando; 
-* Tipos de Variáveis; 
-* Nomeando variáveis; 
-* Conversão de Variáveis; 
-* Comandos de Seleção; 
-* Comandos de Iteração for e foreach; 
-* Exceções (try/catch/finally); 
-* Métodos e Parâmetros; 
-* Coleções; 
-* C# e a Orientação a Objetos; 
-* Sobrecarga de Métodos; 
-* Get/Set;
-* Utilizando Variáveis (Tipo Referência); 
-* Referência de Memória, o que é?; 
-* Utilizando os tipos comuns; 
-* Hierarquia dos objetos; 
-* Herança em C#; 
-* Utilizando Classes Seladas; 
-* Interfaces; 
-* Classes Abstratas; 
-* Criando e Destruindo Objetos (instâncias); 
-* Utilizando os Construtores; 
-* LINQ e Lambda; 
-* Threads;
+* Introdução ao Visual Studio 2013
+* Conhecendo a Plataforma .net
+* Benefícios do .NET Framework 
+* Componentes do .net Framework
+* C# e as Linguagens suportadas pelo Framework
+* Uma visão geral sobre a linguagem C#
+* Estrutura de código
+* Hello World
+* Operações básicas de entrada e saída
+* Compilando, Executando e Debugando
+* Tipos de Variáveis
+* Nomeando variáveis
+* Conversão de Variáveis
+* Comandos de Seleção
+* Comandos de Iteração for e foreach
+* Exceções (try/catch/finally)
+* Métodos e Parâmetros
+* Coleções
+* C# e a Orientação a Objetos
+* Sobrecarga de Métodos
+* Get/Set
+* Utilizando Variáveis (Tipo Referência)
+* Referência de Memória, o que é?
+* Utilizando os tipos comuns
+* Hierarquia dos objetos
+* Herança em C#
+* Utilizando Classes Seladas
+* Interfaces
+* Classes Abstratas
+* Criando e Destruindo Objetos (instâncias)
+* Utilizando os Construtores
+* LINQ e Lambda
+* Threads
 
 ## Conteúdo: 
 
 Estão disponibilizados os slides das aulas por parte:
 
-[Slides Aula - Parte 1 (07 e 08 de outubro)](https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Docs/Aula_V2%20-%20Parte%201.pdf):
-Slides Aula - Parte 2 (21 e 22 de outubro): [aula não realizada]
+* [Slides Aula Parte 1](https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Docs/Aula_V2%20-%20Parte%201.pdf): 07 e 08 de outubro
+* Slides Aula Parte 2: 21 e 22 de outubro [aula não realizada]
 
 
 ## Plano de Ensino
 
-[Plano de Ensino](https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Docs/PLANO%20DE%20ENSINO%20-%20C%23.pdf)
+Acesse [aqui](https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Docs/PLANO%20DE%20ENSINO%20-%20C%23.pdf) o plano de ensino da disciplina.
 				  
 ## Códigos em sala:
 
