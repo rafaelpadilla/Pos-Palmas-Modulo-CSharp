@@ -8,11 +8,11 @@
 
 1a Parte:
 * 07 de outubro de 2017 (Sábado)  : 08:00 às 12:00h - 14:00 às 19:00h
-* 08 de outubro de 2017 (Domingo) : 08:00 às 12:00h - 14:00 às 16:00h
+* 08 de outubro de 2017 (Domingo) : 08:00 às 12:00h
 
 2a Parte:
 * 21 de outubro de 2017 (Sábado)  : 08:00 às 12:00h - 14:00 às 19:00 h
-* 22 de outubro de 2017 (Domingo) : 08:00 às 12:00h - 14:00 às 16:00 h
+* 22 de outubro de 2017 (Domingo) : 08:00 às 12:00h
 
 ## Objetivos:
 
