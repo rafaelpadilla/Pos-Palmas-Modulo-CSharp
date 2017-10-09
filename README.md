@@ -63,18 +63,14 @@
 
 Estão disponibilizados os slides das aulas por parte:
 
-[Slides Aula - Parte 1 (Sábado)](https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Slides_Aula_Parte_1_1.pdf):
-
-[Slides Aula - Parte 1 (Domingo)](https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Slides_Aula_Parte_1_2.pdf):
-
-[Slides Aula - Parte 2 (Sábado)]:(https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Slides_Aula_Parte_2_1.pdf)
-[Slides Aula - Parte 2 (Domingo)]:(https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Slides_Aula_Parte_2_2.pdf)
+[Slides Aula - Parte 1 (07 e 08 de outubro)](https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Docs/Aula_V2%20-%20Parte%201.pdf):
+Slides Aula - Parte 2 (21 e 22 de outubro): [aula não realizada]
 
 
 ## Plano de Ensino
 
 [Plano de Ensino](https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Docs/PLANO%20DE%20ENSINO%20-%20C%23.pdf)
-
+				  
 ## Códigos em sala:
 
 * [Code 01](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2001)  : Exemplo de estrutura de código em C#
@@ -82,12 +78,12 @@ Estão disponibilizados os slides das aulas por parte:
 * [Code 03](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2003)  : Tipos de Variáveis
 * [Code 04](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2004)  : Object vs. Var vs. Dynamic
 * [Code 05](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2005)  : Conversão de Variáveis
-* [Code 06](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2006)  : Coleções
-* [Code 07](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2007)  : Loops (for, foreach, do...while, while)
-* [Code 08](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2008)  : Exceções (try/catch/finally)
-* [Code 09](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2009)  : Métodos e Parâmetros
-* [Code 10](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%20010)  : Encapsulamento
-* [Code 11](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%20011)  : Utilizando Variáveis (Tipo Referência)
+* Code 06  : Coleções [Aula não realizada]
+* Code 07  : Loops (for, foreach, do...while, while) [Aula não realizada]
+* Code 08  : Exceções (try/catch/finally) [Aula não realizada]
+* Code 09  : Métodos e Parâmetros [Aula não realizada]
+* Code 10  : Encapsulamento [Aula não realizada]
+* Code 11  : Utilizando Variáveis (Tipo Referência) [Aula não realizada]
 
 ## Avaliações
 
