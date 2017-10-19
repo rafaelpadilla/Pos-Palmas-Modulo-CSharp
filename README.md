@@ -84,23 +84,37 @@ Acesse [aqui](https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Docs/PLANO
 * Code 09  : Métodos e Parâmetros [Aula não realizada]
 * Code 10  : Encapsulamento [Aula não realizada]
 * Code 11  : Utilizando Variáveis (Tipo Referência) [Aula não realizada]
+* Code 12  : Generics [Aula não realizada]
+* Code 13  : Hierarquia dos objetos [Aula não realizada]
+* Code 14  : Web com Windows Forms [Aula não realizada]
+* Code 15  : Acessando um webservice [Aula não realizada]
+* Code 16  : Deserialização (XML) [Aula não realizada]
+* Code 17  : Deserialização (JSON) [Aula não realizada]
+* Code 18  : Eventos e Delegates [Aula não realizada]
+* Code 19  : Threads [Aula não realizada]
+* Code 20  : Classes sealed (lacradas) [Aula não realizada]
+* Code 21  : Classes Abstratas [Aula não realizada]
+* Code 22  : Acessos de classes [Aula não realizada]
+* Code 23  : Interfaces [Aula não realizada]
+* Code 24  : Criando e Destruindo Objetos (instâncias) [Aula não realizada]
+* Code 25  : LINQ e Lambda [Aula não realizada]
 
 ## Avaliações
 
 A avaliação  será feita através da execução de 6 pequenos projetos (desafios). O projeto com menor nota será desconsiderado. Para cada projeto será dada uma nota de 0 a 10. A nota final será a média de todos os projetos.
 
 **Regras de avaliação:**
-* É necessário disponibilizar o código (Projeto Visual Studio);
+* É necessário disponibilizar o código (Projeto Visual Studio)
 * Não enviar binários (.exe .dll)
-* Nos desafios com Windows Forms, utilize os componentes que facilitem a usabilidade – Use o * bom senso;
-* O código deverá estar bem documentado / comentado;
-* Siga as boas práticas de desenvolvimento vistas em aula;
+* Nos desafios com Windows Forms, utilize os componentes que facilitem a usabilidade – Use o * bom senso
+* O código deverá estar bem documentado / comentado
+* Siga as boas práticas de desenvolvimento vistas em aula
 
 **Os pontos avaliados em cada projeto serão:**
-* Projeto funcional com tratamento de exceções;
-* Projeto consistente com as instruções;
-* Código comentado;
-* Nomenclatura de variáveis, métodos e classes seguindo o padrão C#;
+* Projeto funcional com tratamento de exceções
+* Projeto consistente com as instruções
+* Código comentado
+* Nomenclatura de variáveis, métodos e classes seguindo o padrão C#
 
 **Desafios:**
 * Desafio 1: SUED
