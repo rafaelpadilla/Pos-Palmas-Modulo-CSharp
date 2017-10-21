@@ -64,7 +64,7 @@
 Estão disponibilizados os slides das aulas por parte:
 
 * [Slides Aula Parte 1](https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Docs/Aula_V2%20-%20Parte%201.pdf): 07 e 08 de outubro
-* Slides Aula Parte 2: 21 e 22 de outubro [aula não realizada]
+* [Slides Aula Parte 2](https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Docs/Aula_V2%20-%20Parte%202.pdf): 21 e 22 de outubro
 
 
 ## Plano de Ensino
