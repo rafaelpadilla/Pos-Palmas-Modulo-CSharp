@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ElementoRaiz>
+	<Proprietarios_Residencias>
+		<Proprietario_Residencia>	
+			<Codigo_Proprietario>0001</Codigo_Proprietario>
+			<Residencias> 
+				<Codigo_Residencia>0001</Codigo_Residencia>
+				<Codigo_Residencia>0002</Codigo_Residencia>
+				<Codigo_Residencia>0003</Codigo_Residencia>
+			</Residencias>
+		</Proprietario_Residencia>	
+		<Proprietario_Residencia>	
+			<Codigo_Proprietario>00002</Codigo_Proprietario>
+			<Residencias> 
+				<Codigo_Residencia>0004</Codigo_Residencia>
+				<Codigo_Residencia>0005</Codigo_Residencia>
+			</Residencias>
+		</Proprietario_Residencia>	
+		<Proprietario_Residencia>	
+			<Codigo_Proprietario>00003</Codigo_Proprietario>
+			<Residencias> 
+				<Codigo_Residencia>0006</Codigo_Residencia>
+			</Residencias>
+		</Proprietario_Residencia>	
+		<Proprietario_Residencia>	
+			<Codigo_Proprietario>0004</Codigo_Proprietario>
+			<Residencias> 
+				<Codigo_Residencia>0007</Codigo_Residencia>
+				<Codigo_Residencia>0008</Codigo_Residencia>
+				<Codigo_Residencia>0009</Codigo_Residencia>			
+				<Codigo_Residencia>0001</Codigo_Residencia>
+			</Residencias>
+		</Proprietario_Residencia>	
+	</Proprietarios_Residencias>
+</ElementoRaiz>

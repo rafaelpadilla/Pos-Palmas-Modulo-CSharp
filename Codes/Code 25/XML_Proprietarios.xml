@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ElementoRaiz>
+	<Proprietarios>
+		<Proprietario>	
+			<Codigo>0001</Codigo>
+			<Nome>Silvio</Nome>
+			<Sobrenome>da Silva Santos</Sobrenome>
+		</Proprietario>	
+		<Proprietario>	
+			<Codigo>0002</Codigo>
+			<Nome>Carlos</Nome>
+			<Sobrenome>Carvalho</Sobrenome>
+		</Proprietario>	
+		<Proprietario>	
+			<Codigo>0003</Codigo>
+			<Nome>Diogo</Nome>
+			<Sobrenome>Domenico</Sobrenome>
+		</Proprietario>	
+		<Proprietario>	
+			<Codigo>0004</Codigo>
+			<Nome>Eduardo</Nome>
+			<Sobrenome>Euclides da Rocha</Sobrenome>
+		</Proprietario>	
+		<Proprietario>	
+			<Codigo>0005</Codigo>
+			<Nome>Ze</Nome>
+			<Sobrenome>Sem Casa da Silva</Sobrenome>
+		</Proprietario>	
+		<Proprietario>	
+			<Codigo>0006</Codigo>
+			<Nome>Joao</Nome>
+			<Sobrenome>Sem Teto</Sobrenome>
+		</Proprietario>	
+	</Proprietarios>
+</ElementoRaiz>

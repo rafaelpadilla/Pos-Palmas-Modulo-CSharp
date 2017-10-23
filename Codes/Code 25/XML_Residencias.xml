@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ElementoRaiz>
+	<Residencias>
+		<Residencia>	
+			<Codigo>0001</Codigo>
+			<Endereco>Av. Taquara 1500</Endereco>
+			<Cidade>Manaus</Cidade>
+			<UF>AM</UF>
+			<M2>200</M2>
+			<Preco>200000</Preco>
+		</Residencia>	
+		<Residencia>	
+			<Codigo>002</Codigo>
+			<Endereco>Av. Marcos Rocha, 158 apto 1455</Endereco>
+			<Cidade>Manaus</Cidade>
+			<UF>AM</UF>
+			<M2>80</M2>
+			<Preco>350000</Preco>
+		</Residencia>	
+		<Residencia>	
+			<Codigo>0003</Codigo>
+			<Endereco>Av. Atlantica 1500, Apto 15</Endereco>
+			<Cidade>Rio de Janeiro</Cidade>
+			<UF>RJ</UF>
+			<M2>400</M2>
+			<Preco>5000000</Preco>
+		</Residencia>	
+		<Residencia>	
+			<Codigo>0004</Codigo>
+			<Endereco>Rua 2, casa 1</Endereco>
+			<Cidade>Manaus</Cidade>
+			<UF>AM</UF>
+			<M2>50</M2>
+			<Preco>600000</Preco>
+		</Residencia>	
+		<Residencia>	
+			<Codigo>0005</Codigo>
+			<Endereco>Av. Dulcidio Cardoso, 3030</Endereco>
+			<Cidade>Rio de Janeiro</Cidade>
+			<UF>RJ</UF>
+			<M2>200</M2>
+			<Preco>7500000</Preco>
+		</Residencia>	
+		<Residencia>	
+			<Codigo>0006</Codigo>
+			<Endereco>Av. Borges de Medeiros 1500</Endereco>
+			<Cidade>Rio de Janeiro</Cidade>
+			<UF>RJ</UF>
+			<M2>1000</M2>
+			<Preco>5000000</Preco>
+		</Residencia>	
+		<Residencia>	
+			<Codigo>0007</Codigo>
+			<Endereco>Av. Djalma Batista</Endereco>
+			<Cidade>Manaus</Cidade>
+			<UF>AM</UF>
+			<M2>200</M2>
+			<Preco>750000</Preco>
+		</Residencia>	
+		<Residencia>	
+			<Codigo>0008</Codigo>
+			<Endereco>Av. das Américas 350</Endereco>
+			<Cidade>Rio de Janeiro</Cidade>
+			<UF>RJ</UF>
+			<M2>600</M2>
+			<Preco>8000000</Preco>
+		</Residencia>	
+		<Residencia>	
+			<Codigo>0009</Codigo>
+			<Endereco>Av. Quinto Bocaiúva 250</Endereco>
+			<Cidade>Manaus</Cidade>
+			<UF>AM</UF>
+			<M2>50</M2>
+			<Preco>35000</Preco>
+		</Residencia>
+		<Residencia>	
+			<Codigo>0010</Codigo>
+			<Endereco>Rua Perimetral, 20</Endereco>
+			<Cidade>Manaus</Cidade>
+			<UF>AM</UF>
+			<M2>150</M2>
+			<Preco>300000</Preco>
+		</Residencia>			
+	</Residencias>
+</ElementoRaiz>
