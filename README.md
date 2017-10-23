@@ -78,26 +78,26 @@ Acesse [aqui](https://github.com/rafaelpadilla/Pos-Palmas/blob/master/Docs/PLANO
 * [Code 03](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2003)  : Tipos de Variáveis
 * [Code 04](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2004)  : Object vs. Var vs. Dynamic
 * [Code 05](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2005)  : Conversão de Variáveis
-* Code 06  : Coleções [Aula não realizada]
-* Code 07  : Loops (for, foreach, do...while, while) [Aula não realizada]
-* Code 08  : Exceções (try/catch/finally) [Aula não realizada]
-* Code 09  : Métodos e Parâmetros [Aula não realizada]
-* Code 10  : Encapsulamento [Aula não realizada]
-* Code 11  : Utilizando Variáveis (Tipo Referência) [Aula não realizada]
-* Code 12  : Generics [Aula não realizada]
-* Code 13  : Hierarquia dos objetos [Aula não realizada]
-* Code 14  : Web com Windows Forms [Aula não realizada]
-* Code 15  : Acessando um webservice [Aula não realizada]
-* Code 16  : Deserialização (XML) [Aula não realizada]
-* Code 17  : Deserialização (JSON) [Aula não realizada]
-* Code 18  : Eventos e Delegates [Aula não realizada]
-* Code 19  : Threads [Aula não realizada]
-* Code 20  : Classes sealed (lacradas) [Aula não realizada]
-* Code 21  : Classes Abstratas [Aula não realizada]
-* Code 22  : Acessos de classes [Aula não realizada]
-* Code 23  : Interfaces [Aula não realizada]
-* Code 24  : Criando e Destruindo Objetos (instâncias) [Aula não realizada]
-* Code 25  : LINQ e Lambda [Aula não realizada]
+* [Code 06](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2006)  : Coleções 
+* [Code 07](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2007)  : Loops (for, foreach, do...while, while) 
+* [Code 08](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2008)  : Exceções (try/catch/finally) 
+* [Code 09](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2009)  : Métodos e Parâmetros 
+* [Code 10](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2010)  : Encapsulamento 
+* [Code 11](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2011)  : Utilizando Variáveis (Tipo Referência) 
+* [Code 12](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2012)  : Generics 
+* [Code 13](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2013)  : Hierarquia dos objetos 
+* [Code 14](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2014)  : Web com Windows Forms 
+* [Code 15](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2015)  : Acessando um webservice 
+* [Code 16](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2016)  : Deserialização (XML) 
+* [Code 17](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2017)  : Deserialização (JSON) 
+* [Code 18](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2018)  : Eventos e Delegates 
+* [Code 19](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2019)  : Threads 
+* [Code 20](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2020)  : Classes sealed (lacradas) 
+* [Code 21](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2021)  : Classes Abstratas 
+* [Code 22](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2022)  : Acessos de classes 
+* [Code 23](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2023)  : Interfaces
+* [Code 24](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2024)  : Criando e Destruindo Objetos (instâncias) 
+* [Code 25](https://github.com/rafaelpadilla/Pos-Palmas/tree/master/Codes/Code%2025)  : LINQ e Lambda
 
 ## Avaliações
 
